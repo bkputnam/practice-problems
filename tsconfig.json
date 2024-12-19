@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "inlineSourceMap": true,
+        "strictNullChecks": true,
+        "target": "es2022",
+        "module": "NodeNext",
+        "jsx": "react",
+        "moduleResolution": "nodenext",
+        "esModuleInterop": true,
+    },
+}
